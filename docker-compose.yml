@@ -1,5 +1,4 @@
 services:
-
   llamacpp:
     image: ghcr.io/ggml-org/llama.cpp:server-vulkan
     container_name: llamacpp
