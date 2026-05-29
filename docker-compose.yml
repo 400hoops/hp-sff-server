@@ -21,8 +21,8 @@ services:
       --port 8081
       --host 0.0.0.0
       -c 65536
-      -b 2048
-      -ub 2048
+      -b 512
+      -ub 512
       --parallel 1
       --threads 6
       -fa on
